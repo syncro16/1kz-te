@@ -3,6 +3,7 @@
  * 
  * Modifies (expands) spill of solenoid pulse according to analog input (MAP sensor for example) to allow more fueling
  * 
+ * This is code for Arduino Uno
  */
 
 
